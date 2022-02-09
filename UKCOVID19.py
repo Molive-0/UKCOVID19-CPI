@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from datetime import date, datetime, timedelta
 from iso3166 import countries
 from json import dumps, loads
@@ -98,11 +100,11 @@ ChannelID = 0
 # Files
 Files = {
     "AllData": None,
-    "Config": "config.json",
-    "ErrorLogs": "./ErrorLogs/",
+    "Config": "/home/molive/UKCOVID19-CPI/config.json",
+    "ErrorLogs": "/home/molive/UKCOVID19-CPI/ErrorLogs/",
     "Messages": "",
     "RollAvgPeaks": "",
-    "RuntimeLogs": "./RuntimeLogs/Log_%DATE%.txt",
+    "RuntimeLogs": "/home/molive/UKCOVID19-CPI/RuntimeLogs/Log_%DATE%.txt",
     "Variants": None
 }
 

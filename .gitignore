@@ -1,3 +1,5 @@
 config.json
 RuntimeLogs/*
 ErrorLogs/*
+alldata.json
+start.sh
