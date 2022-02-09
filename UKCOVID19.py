@@ -99,10 +99,10 @@ ChannelID = 0
 Files = {
     "AllData": None,
     "Config": "config.json",
-    "ErrorLogs": "",
+    "ErrorLogs": "./ErrorLogs/",
     "Messages": "",
     "RollAvgPeaks": "",
-    "RuntimeLogs": "",
+    "RuntimeLogs": "./RuntimeLogs/Log_%DATE%.txt",
     "Variants": None
 }
 
