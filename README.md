@@ -64,7 +64,7 @@ You can create your own file using the following template:
     "AllData": "",
     "Messages": "",
     "RollAvgPeaks": "",
-    "Variants": ""
+    "Variants": "variants.json"
   },
   "StatusMessages": {
     "BlueBannersAddresses": [
